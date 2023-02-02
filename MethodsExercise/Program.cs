@@ -24,16 +24,9 @@ namespace MethodsExercise
 
         }
 
-
-
-
-
-
     }
 }
-
-
-                              //Excercise 2
+                     //Excercise 2
 
 internal class Exercise
 {
